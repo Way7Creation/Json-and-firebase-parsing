@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>343688003301-a633fhngbmau8dc91c47cd5jfq25tt44.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.343688003301-a633fhngbmau8dc91c47cd5jfq25tt44</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKNE-0oYtkasiz7oRuerUAj715A0IficA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>343688003301</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eclipse</string>
+	<key>PROJECT_ID</key>
+	<string>jsoneclipse</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jsoneclipse.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:343688003301:ios:29765ca14320839d4cde0c</string>
+	<key>DATABASE_URL</key>
+	<string>https://jsoneclipse-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
